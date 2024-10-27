@@ -1,2 +1,2 @@
-# interakcni_design
+# interakcni-design
 Projekt na předmět interakční design.
